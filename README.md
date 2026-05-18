@@ -61,9 +61,7 @@ FieldSurveyGO/
 ├── README.md
 └── exports/           # Exported CSV/JSON files
 ⚙️ Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/FieldSurveyGO.git
-cd FieldSurveyGO
+
 2️⃣ Install Dependencies
 pip install PySide6
 ▶️ Run the Application
